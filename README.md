@@ -1,5 +1,9 @@
 # vue-cart
 
+## Projeto em vueJS
+![Banana](/doc/img/projeto.png)
+
+
 ## Project setup
 ```
 npm install
